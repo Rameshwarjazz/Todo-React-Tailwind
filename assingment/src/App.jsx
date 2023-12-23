@@ -83,7 +83,7 @@ function App() {
   };
 
   return (
-    <div className='bg-gray-800 h-fit flex flex-col justify-center items-center '>
+    <div className='bg-gray-800 min-h-screen flex flex-col justify-center items-center '>
       <div className='w-96 p-8  bg-gray-400 rounded-lg shadow-md'>
       <h1 className='text-4xl mb-6 text-gray-800 font-bold'>Todo:</h1>
         <label htmlFor='todo' className='flex items-center mb-4'>
